@@ -1,7 +1,6 @@
 {
     "name": "robey/face-api",
     "description": "base baidu face api sdk develop laravel plugin",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
