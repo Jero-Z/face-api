@@ -1,0 +1,22 @@
+{
+    "name": "baidu/face-api",
+    "description": "base baidu face api sdk develop laravel plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "robey",
+            "email": "andy771480011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0",
+        "maatwebsite/excel": "3.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "lib\\": "src"
+        }
+    }
+}
