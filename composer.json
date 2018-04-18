@@ -1,5 +1,5 @@
 {
-    "name": "baidu/face-api",
+    "name": "robey/face-api",
     "description": "base baidu face api sdk develop laravel plugin",
     "type": "composer-plugin",
     "license": "MIT",
