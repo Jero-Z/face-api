@@ -13,9 +13,7 @@
         "php": ">=7.0.0"
     },
     "autoload": {
-        "psr-4": {
-            "lib\\": "src\\lib/"
-        }
+        "psr-0": {"lib\\": "src/"}
     },
     "extra": {
         "branch-alias": {
