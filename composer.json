@@ -16,5 +16,10 @@
         "psr-4": {
             "lib\\": "src\\lib/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "0.5-dev"
+        }
     }
 }
